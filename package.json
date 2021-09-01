@@ -47,6 +47,6 @@
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
-    "tar": ">=2.2.2"
+    "tar": ">=4.4.18"
   }
 }
