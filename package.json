@@ -24,7 +24,7 @@
   "dependencies": {
     "vue": "^2.6.8",
     "typescript": "^3.3.3333",
-    "electron": "^4.1.0"
+    "electron": "^18.3.7"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.1",
